@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Smart YouTube Translator",
+  "description": "A tool to translate YouTube titles and descriptions into multiple languages with AI, while preserving protected terms and strictly keeping titles under 100 characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
